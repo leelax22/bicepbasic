@@ -1,0 +1,2 @@
+# bicepbasic
+Bicep Simple Utilization
